@@ -11,3 +11,4 @@ local.properties
 app/.DS_Store
 app/src/.DS_Store
 app/src/main/.DS_Store
+/.idea/*
